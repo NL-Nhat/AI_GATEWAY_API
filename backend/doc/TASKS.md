@@ -28,3 +28,7 @@ Dưới đây là danh sách các tính năng cốt lõi cần thực hiện, ch
 - [ ] Ghi nhận và theo dõi các metric: user, model, độ trễ, số lượng token, v.v.
 - [ ] Triển khai tính năng Rate Limiting (giới hạn tốc độ gọi API).
 - [ ] Tạo endpoint `/usage` để cung cấp thống kê sử dụng của người dùng.
+
+
+
+
